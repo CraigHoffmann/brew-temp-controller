@@ -6,3 +6,5 @@ The wifi SSID and Password are hard coded in this project - just edit in the .in
 
 The web page uses google charts api to draw the graph.
 
+![Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/mybrew.png?raw=true)
+
