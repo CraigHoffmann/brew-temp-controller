@@ -12,10 +12,18 @@ The web page uses ![google charts](https://developers.google.com/chart) api to d
 
 ![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/BrewTempControlWiring.jpg?raw=true)
 
+The string of resistors are used as the heater element and are stitched inside a "blanket" that wraps around the brew.  One of the DS18B20 temp sensors is also stitched inside the blanket.  When wrapped around the brew container they shound both make contact with the container to provide best heating and temp measurement.
+
 ![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/resistors.jpg?raw=true)
+
+Below you can see how it all looks when setup.
 
 ![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/heatersetup.jpg?raw=true)
 
+For reference this setup is using a 3.5liter brew jar as shown below.
+
 ![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/brew.jpg?raw=true)
+
+And this is the end result after a successful brew.
 
 ![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/bottled.jpg?raw=true)
