@@ -8,3 +8,6 @@ The web page uses ![google charts](https://developers.google.com/chart) api to d
 
 ![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/mybrew.png?raw=true)
 
+![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/BrewTempControlSchematic.jpg?raw=true)
+
+![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/BrewTempControlWiring.jpg?raw=true)
