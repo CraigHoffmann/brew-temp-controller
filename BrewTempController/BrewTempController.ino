@@ -1,3 +1,9 @@
+// ****************************************************************
+// Kombucha brew temperature controller
+// by Craig Hoffmann
+//
+// ****************************************************************
+
 #include <ESP8266WiFi.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
