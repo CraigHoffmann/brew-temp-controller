@@ -24,7 +24,7 @@ Below you can see how it all looks when setup.
 
 3.5Liter brew container    |  Brew with heater
 :-------------------------:|:-------------------------:
-<img src="https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/brew.jpg?raw=true" width="60%"> |  <img src="https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/heatersetup.jpg?raw=true" width="75%">
+<img src="https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/brew.jpg?raw=true" width="80%"> |  <img src="https://github.com/CraigHoffmann/brew-temp-controller/blob/master/Images/heatersetup.jpg?raw=true" width="80%">
 
 And this is the end result after a successful brew.
 
