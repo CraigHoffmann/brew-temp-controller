@@ -4,7 +4,7 @@ Brew Temp Controller is an ESP8266-01 based temperature controller for brewing k
 
 The wifi SSID and Password are hard coded in this project - just edit in the .ino file.  Once connected to a wifi network the web page can be found at the dhcp assigned ip address or http://mybrew.local/ using mDNS.
 
-The web page uses ![google charts](https://developers.google.com/chart) api to draw the graph.  For convenience there is also a section where a short note can be entered and saved... this can be used to save the date the brew was started for example.
+The web page uses https://developers.google.com/chart api to draw the graph.  For convenience there is also a section where a short note can be entered and saved... this can be used to save the date the brew was started for example.
 
 ![mybrew Web Page](https://github.com/CraigHoffmann/brew-temp-controller/blob/master/mybrew.png?raw=true)
 
